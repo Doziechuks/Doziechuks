@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Doziechuks
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on fontend projects
+- 📫 How to reach me doziechuks1010@gmail.com
 
 <!---
 Doziechuks/Doziechuks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
